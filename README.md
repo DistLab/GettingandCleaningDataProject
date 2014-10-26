@@ -10,4 +10,4 @@ Step2: Copy the aforementioned files into your own working directory
 
 Step3: Copy my code into your own  run_analysis.R script
 
-Step4: Source the run_analysis.R script generated in Step3,you will get the final result.
+Step4: Source and run the run_analysis.R script generated in Step3,you will get the final result.
